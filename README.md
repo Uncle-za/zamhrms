@@ -1,6 +1,6 @@
 # ZAMHRMS
 
-**HR and payroll for Zambian businesses.**
+**HR and payroll for Zambian businesses**, built by [Insight Analytics](https://insightanalyticsltd.com).
 
 > The source code is private because this is a commercial product. This repository explains
 > what the system does, how it is built, and how the work is progressing. I'm happy to walk
